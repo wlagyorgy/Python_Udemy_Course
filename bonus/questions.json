@@ -1,0 +1,29 @@
+[
+  {
+    "question_text": "What are dolphins?",
+    "alternatives": [
+      "Amphibians",
+      "Fish",
+      "Mammals",
+      "Birds"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "What occupies most of the Earth surface?",
+    "alternatives": [
+      "Water",
+      "Land"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question_text": "What are the biggest mammals?",
+    "alternatives": [
+      "Elephants",
+      "Whales",
+      "Giraffes"
+    ],
+    "correct_answer": 2
+  }
+]
