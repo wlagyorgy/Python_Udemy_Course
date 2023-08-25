@@ -2,6 +2,8 @@ Add a new player
 Play chess
 create todo listclean the bag
 Make soup
-clean the bag
-Hello Gui
+Clean the BagHello Gui
 making good code
+example
+My newest todo is added
+Hello
