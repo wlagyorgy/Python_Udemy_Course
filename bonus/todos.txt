@@ -3,3 +3,5 @@ Play chess
 create todo listclean the bag
 Make soup
 clean the bag
+Hello Gui
+making good code
