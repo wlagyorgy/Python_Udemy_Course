@@ -7,3 +7,8 @@ making good code
 example
 My newest todo is added
 Hello
+Byebye
+Play chess
+
+Helloka
+Helloka2
